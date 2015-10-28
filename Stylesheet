@@ -1,12 +1,15 @@
 .banner {
-position: absolute;
-top: 10px;
-left: 5px;
-right: 5px;
 background-color: #002D40;
 height: 100px;
 text-align: center;
 color: white;
+box-shadow: 5px 5px 10px darkgray;
+border-radius: 5px;
+position: absolute;
+top: 2.5px;
+left: 5px;
+right: 5px;
+padding: 0px;
 }
 
 body {
@@ -15,64 +18,111 @@ padding: 10px;
 }
 
 #navbar {
-text-align: center;
 width: 25%;
 position: absolute;
-top: 150px;
-right: 37.5%;
+top: 5px;
 }
 
 h3 {
 text-align: center;
 }
 
-#firsttrumpet {
-float: left;
-}
-
 #mainintro {
-position: absolute;
-top: 200px;
 text-indent: 50px;
 border-style: solid;
 border-width: 5px;
 border-color: #005A7F;
-border-radius: 25px;
+border-radius: 10px;
 padding: 15px;
-margin-top: 25px;
+margin-top: 50px;
 margin-left: 150px;
 margin-right: 150px;
+position: relative;
+top: 75px;
+box-shadow: 5px 5px 1.5px darkgray;
 }
 
 #maintext {
 text-indent: 50px;
 border-style: solid;
 border-width: 5px;
-border-radius: 25px;
+border-radius: 10px;
 position: absolute;
-bottom: 50px;
-top: 325px;
+top: 260px;
+box-shadow: 5px 5px 1.5px darkgray;
 }
 
 .bodyp {
 padding: 15px;
-margin: 25px;
+margin: 10px;
 margin-left: 75px;
 margin-right: 75px;
 text-indent: 50px;
 border-style: inset;
 border-width: 5px;
 border-color: #005A7F;
-border-radius: 25px;
-
+border-radius: 10px;
+letter-spacing: 1.25px;
+font-family: "Georgia", Georgia, serif;
 }
 
-.trumpetpics {
-width: 75%;
-height: 300px;	
+#trumpettext{
+text-indent: 50px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+position: absolute;
+top: 150px;
+left: 50px;
+right: 50px;
+box-shadow: 5px 5px 1.5px darkgray;
 }
 
 img {
-width: 18.75%;
-height:	200px;
+float: left;
+width: 200px;
+height: 200px;
+margin: 5px;
+}
+
+#basstext {
+text-indent: 50px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+position: absolute;
+top: 150px;
+left: 50px;
+right: 50px;
+box-shadow: 5px 5px 1.5px darkgray;
+}
+
+#sergeibass {
+height: 300px;
+}
+
+#choirtext {
+text-indent: 50px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+position: absolute;
+top: 150px;
+left: 50px;
+right: 50px;
+box-shadow: 5px 5px 1.5px darkgray;
+}
+
+#coolchoir {
+width: 350px;
+}
+
+#makingatrumpet {
+float: left;
+margin: 10px;
+}
+
+#summitvalve {
+width: 300px;
+float: right;
 }
