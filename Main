@@ -16,24 +16,12 @@
 	</div>
 	
 	<div class="bodyp" id="mainintro">
-		
+	
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mi non turpis dignissim elementum non vitae massa. Nunc accumsan condimentum nibh non ultrices. Sed cursus posuere nulla ut porta. Mauris egestas sed enim nec fringilla. Morbi scelerisque quam eu ligula elementum, ac lobortis lectus finibus. Cras tincidunt euismod metus, vel consequat leo condimentum sed. Phasellus id mattis felis, id tincidunt erat. Vestibulum lacinia ultricies fringilla. Aliquam porttitor luctus lacus vel ornare. Aenean pellentesque libero feugiat tellus sodales, sit amet gravida enim tristique.
 	</p>
 
 	</div>
 	
-	<div id="navbar">
-		<a href="trumpet.html"">
-			<button type="button" class="btn btn-warning">Trumpet</button>
-		</a>
-		<a href="bass.html" id="basslink">
-			<button type="button" class="btn btn-warning">Bass</button>
-		</a>
-		<a href="choir.html">
-			<button type="button" class="btn btn-warning">Choir</button>
-		</a>
-		</div>
-		
 		<div class="bodyp" id="maintext">
 	<p>
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mi non turpis dignissim elementum non vitae massa. Nunc accumsan condimentum nibh non ultrices. Sed cursus posuere nulla ut porta. Mauris egestas sed enim nec fringilla. Morbi scelerisque quam eu ligula elementum, ac lobortis lectus finibus. Cras tincidunt euismod metus, vel consequat leo condimentum sed. Phasellus id mattis felis, id tincidunt erat. Vestibulum lacinia ultricies fringilla. Aliquam porttitor luctus lacus vel ornare. Aenean pellentesque libero feugiat tellus sodales, sit amet gravida enim tristique.
@@ -68,6 +56,23 @@
 	</p>
 
 	</div>
+	
+		<div id="navbar">
+		<a href="final.html">
+			<button type="button" class="btn btn-warning">Main</button>
+			</a>
+		<a href="trumpet.html">
+			<button type="button" class="btn btn-warning">Trumpet</button>
+		</a>
+		<a href="bass.html">
+			<button type="button" class="btn btn-warning">Bass</button>
+		</a>
+		<a href="choir.html">
+			<button type="button" class="btn btn-warning">Choir</button>
+		</a>
+		</div>
+		
+		
 </body>
 </html>
 	
