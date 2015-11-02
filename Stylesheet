@@ -4,12 +4,11 @@ height: 100px;
 text-align: center;
 color: white;
 box-shadow: 5px 5px 10px darkgray;
-border-radius: 5px;
-position: absolute;
-top: 2.5px;
-left: 5px;
-right: 5px;
-padding: 0px;
+position: fixed;
+top: 0;
+left: 0px;
+right: 0px;
+z-index: 1;
 }
 
 body {
@@ -19,12 +18,14 @@ padding: 10px;
 
 #navbar {
 width: 25%;
-position: absolute;
-top: 5px;
+position: fixed;
+top: 7.5px;
+left: 7.5px;
+z-index: 1;
 }
 
 h3 {
-text-align: center;
+text-indent: 0px;
 }
 
 #mainintro {
@@ -47,8 +48,8 @@ text-indent: 50px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
-position: absolute;
-top: 260px;
+position: relative;
+top: 75px;
 box-shadow: 5px 5px 1.5px darkgray;
 }
 
@@ -67,7 +68,7 @@ font-family: "Georgia", Georgia, serif;
 }
 
 #trumpettext{
-text-indent: 50px;
+text-indent: 0px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
@@ -86,7 +87,7 @@ margin: 5px;
 }
 
 #basstext {
-text-indent: 50px;
+text-indent: 0px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
@@ -102,7 +103,7 @@ height: 300px;
 }
 
 #choirtext {
-text-indent: 50px;
+text-indent: 0px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
@@ -125,4 +126,14 @@ margin: 10px;
 #summitvalve {
 width: 300px;
 float: right;
+}
+
+#bassplaying {
+float: left;
+}
+
+#bassparts {
+float: right;
+width: 200px;
+height: 400px;
 }
