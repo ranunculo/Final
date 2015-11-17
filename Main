@@ -10,51 +10,47 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	</head>
 <body>
-	
+
+	<div class="everything">
 	<div class="banner" id="mainbanner">
 		<h1>Music</h1>
 	</div>
 	
-	<div class="bodyp" id="mainintro">
+		<div id="picturebanner">
+		</div>
 	
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mi non turpis dignissim elementum non vitae massa. Nunc accumsan condimentum nibh non ultrices. Sed cursus posuere nulla ut porta. Mauris egestas sed enim nec fringilla. Morbi scelerisque quam eu ligula elementum, ac lobortis lectus finibus. Cras tincidunt euismod metus, vel consequat leo condimentum sed. Phasellus id mattis felis, id tincidunt erat. Vestibulum lacinia ultricies fringilla. Aliquam porttitor luctus lacus vel ornare. Aenean pellentesque libero feugiat tellus sodales, sit amet gravida enim tristique.
-	</p>
-
-	</div>
-	
-		<div class="bodyp" id="maintext">
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac mi non turpis dignissim elementum non vitae massa. Nunc accumsan condimentum nibh non ultrices. Sed cursus posuere nulla ut porta. Mauris egestas sed enim nec fringilla. Morbi scelerisque quam eu ligula elementum, ac lobortis lectus finibus. Cras tincidunt euismod metus, vel consequat leo condimentum sed. Phasellus id mattis felis, id tincidunt erat. Vestibulum lacinia ultricies fringilla. Aliquam porttitor luctus lacus vel ornare. Aenean pellentesque libero feugiat tellus sodales, sit amet gravida enim tristique.
-	</p>
+		<div id="maintext1">
 	
 	<p>
 		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
 	</p>
-
 	<p>
-		Vestibulum porta, quam fringilla euismod commodo, magna leo rhoncus diam, vitae placerat elit augue et justo. Quisque in nunc et felis elementum interdum. Vestibulum tincidunt, mi quis tempor faucibus, justo dui volutpat nibh, in vehicula urna erat a turpis. Donec non viverra purus. Sed blandit, tellus eu congue aliquam, velit urna semper velit, vitae aliquam erat turpis at tellus. Mauris mattis mauris in magna luctus mollis. Nam consectetur lacinia sem, a consectetur tortor dignissim ut. Aliquam eleifend arcu id finibus elementum. Suspendisse fringilla hendrerit nulla a venenatis.
+		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
 	</p>
 
+
+	</div>
+	
+	<div  id="maintext2">
+	
 	<p>
 		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>	
-
 	<p>
-		Mauris pulvinar feugiat tortor ut vestibulum. Sed ut augue justo. Suspendisse euismod ac arcu et ornare. Ut sit amet libero vel purus rhoncus tempus in quis sapien. Curabitur euismod nulla sit amet euismod pretium. Etiam maximus purus est, ac dictum quam eleifend vel. Cras quis commodo dolor, quis eleifend tortor. Fusce ut semper eros. Nunc et felis libero. Vestibulum non lacus at ligula egestas cursus vitae sit amet ipsum. 
+		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
 	</p>
-		
-	<p>
-		Fusce non est dictum, vulputate neque finibus, lacinia dolor. Integer sed cursus augue. Ut vitae nisi eget ex dictum sagittis. Curabitur commodo a risus at consectetur. Aenean sit amet urna vitae ligula fermentum interdum. Nulla dui elit, ullamcorper at ultrices at, suscipit eget libero. Pellentesque interdum risus quis est porttitor venenatis. Aenean sollicitudin viverra consequat. Fusce quis quam arcu. Donec venenatis nec erat sed vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius ipsum vitae tincidunt consequat. Phasellus id posuere lectus. Donec id suscipit diam. Vestibulum nec sapien ut risus convallis viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-	</p>	
-
+	</div>
+	
+	<div id="maintext3">
+	
 	<p>
 		Nulla mi lectus, sodales sed ultrices eu, tincidunt sed dui. In odio felis, accumsan non blandit ut, sodales vitae arcu. Vestibulum fermentum nec dolor id mattis. Duis at metus at purus semper varius. Quisque est ex, ornare vel arcu vel, aliquet lacinia metus. Proin lobortis eleifend neque, eu sagittis diam porttitor ut. Nulla venenatis nulla vel suscipit finibus. Donec sed mi in nunc varius eleifend. Cras at ante eleifend justo eleifend euismod. Duis dictum velit quis mollis interdum. Curabitur euismod sapien vitae turpis egestas, ut accumsan dolor ullamcorper.
 	</p>
-	
-	<p>
-		Sed ut cursus nisl, sit amet suscipit eros. Donec in faucibus justo. Morbi dui mauris, consequat eget orci sed, blandit eleifend sem. Donec vulputate ornare faucibus. Ut convallis lectus in elit luctus posuere. Praesent a augue nec nisi aliquam lacinia et vel tellus. Nunc eleifend, nulla quis pretium consequat, erat leo efficitur tellus, sed semper ligula ipsum quis lorem.
+<p>
+		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
 	</p>
-
+	</div>
+	
 	</div>
 	
 		<div id="navbar">
@@ -71,8 +67,9 @@
 			<button type="button" class="btn btn-warning">Choir</button>
 		</a>
 		</div>
-
+	</div>
 		
 		
 </body>
 </html>
+	
