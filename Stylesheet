@@ -14,6 +14,7 @@ z-index: 1;
 body {
 margin:auto;
 padding: 10px;
+background-image: url("http://alllayedout.com/Backgrounds/Music_15.gif");
 }
 
 #navbar {
@@ -43,14 +44,26 @@ top: 75px;
 box-shadow: 5px 5px 1.5px darkgray;
 }
 
-#maintext {
+#maintext1, #maintext2, #maintext3 {
 text-indent: 50px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
+border-color: #005A7F;
 position: relative;
-top: 75px;
+top: 25px;
 box-shadow: 5px 5px 1.5px darkgray;
+background-color: white;
+padding: 15px;
+font-family: "Georgia", Georgia, serif;
+letter-spacing: 1.25px;
+margin: auto;
+margin-left: 75px;
+margin-right: 75px;
+}
+
+#maintext2, #maintext3 {
+margin-top: 25px;
 }
 
 .bodyp {
@@ -72,10 +85,8 @@ text-indent: 0px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
-position: absolute;
-top: 150px;
-left: 50px;
-right: 50px;
+position: relative;
+top: 25px;
 box-shadow: 5px 5px 1.5px darkgray;
 }
 
@@ -91,10 +102,8 @@ text-indent: 0px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
-position: absolute;
-top: 150px;
-left: 50px;
-right: 50px;
+position: relative;
+top: 25px;
 box-shadow: 5px 5px 1.5px darkgray;
 }
 
@@ -107,10 +116,8 @@ text-indent: 0px;
 border-style: solid;
 border-width: 5px;
 border-radius: 10px;
-position: absolute;
-top: 150px;
-left: 50px;
-right: 50px;
+position: relative;
+top: 25px;
 box-shadow: 5px 5px 1.5px darkgray;
 }
 
@@ -124,7 +131,7 @@ margin: 10px;
 }
 
 #summitvalve {
-width: 300px;
+width: 275px;
 float: right;
 }
 
@@ -135,12 +142,21 @@ float: left;
 #bassparts {
 float: right;
 width: 200px;
-height: 400px;
+height: 350px;
 }
 
 iframe {
 float: left;
-width: 450px;
-height: 315px;
+width: 300px;
+height: 175px;
 margin: 5px;
+}
+
+#picturebanner {
+background-image: url("http://s3.amazonaws.com/vnn-aws-sites/4712/files/2014/09/marching-band.jpeg");
+height: 300px;
+width: 100%;
+position: relative;
+top: 50px;
+right: 20px;
 }
