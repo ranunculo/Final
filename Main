@@ -8,27 +8,25 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	</head>
-<body>
+	<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+  </head>
+<body class="mainback">
 
 	<div class="everything">
-	<div class="banner" id="mainbanner">
-		<h1>Music</h1>
-	</div>
 	
-		<div id="picturebanner">
-		</div>
 	
+
+	
+	<div id="maintext">
 		<div id="maintext1">
 	
 	<p>
-		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
+		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>
+	
 	<p>
-		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
+		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>
-
-
 	</div>
 	
 	<div  id="maintext2">
@@ -36,22 +34,27 @@
 	<p>
 		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>	
+	
 	<p>
-		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
+		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>
+	
 	</div>
 	
 	<div id="maintext3">
 	
 	<p>
-		Nulla mi lectus, sodales sed ultrices eu, tincidunt sed dui. In odio felis, accumsan non blandit ut, sodales vitae arcu. Vestibulum fermentum nec dolor id mattis. Duis at metus at purus semper varius. Quisque est ex, ornare vel arcu vel, aliquet lacinia metus. Proin lobortis eleifend neque, eu sagittis diam porttitor ut. Nulla venenatis nulla vel suscipit finibus. Donec sed mi in nunc varius eleifend. Cras at ante eleifend justo eleifend euismod. Duis dictum velit quis mollis interdum. Curabitur euismod sapien vitae turpis egestas, ut accumsan dolor ullamcorper.
+		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>
-<p>
-		Pellentesque venenatis hendrerit lacus, et tempor diam pellentesque a. Integer in sem dui. Morbi iaculis justo a velit consequat, nec vestibulum elit posuere. Suspendisse ullamcorper risus nec ipsum molestie, nec fringilla odio elementum. Sed tempus magna nisl, in hendrerit dui elementum at. Morbi vel consectetur turpis. Suspendisse potenti. Phasellus finibus tristique commodo. Integer tincidunt enim non sagittis malesuada. Curabitur quis nulla at leo elementum sagittis.
+	<p>
+		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>
+	
 	</div>
 	
 	</div>
+	
+	
 	
 		<div id="navbar">
 		<a href="final.html">
@@ -67,9 +70,11 @@
 			<button type="button" class="btn btn-warning">Choir</button>
 		</a>
 		</div>
-	</div>
+	
 		
-		
+		<div id="credits">
+		<p>A special thanks to <a id="wikipedia" href="https://www.wikipedia.org/">Wikipedia</a> for all of the inspiration.</p>
+		</div>
+		</div>
 </body>
 </html>
-	
