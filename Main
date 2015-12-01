@@ -12,12 +12,10 @@
   </head>
 <body class="mainback">
 
-	<div class="everything">
-	
-	
-
 	
 	<div id="maintext">
+	
+		
 		<div id="maintext1">
 	
 	<p>
@@ -25,10 +23,26 @@
 	</p>
 	
 	<p>
-		Sed lobortis rhoncus sodales. Etiam eu nulla risus. Nam bibendum tortor diam, ultrices dapibus sapien vestibulum nec. Aenean arcu enim, efficitur ac auctor eget, congue eu dui. Fusce mattis vehicula neque sit amet vehicula. Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
+	Fusce eu augue arcu. Nullam a dolor vel justo maximus dapibus sit amet eu velit. Ut id tempus velit, sit amet blandit urna. Pellentesque sodales arcu nec est molestie, id vehicula mi bibendum. Etiam interdum dolor et euismod eleifend. Sed elit urna, malesuada a condimentum ut, consequat sit amet felis. Duis non dapibus est. Vivamus venenatis accumsan auctor.
 	</p>
+	
 	</div>
 	
+	<div id="navbar">
+		<a href="final.html">
+			<button class="button" >Main</button>
+			</a>
+		<a href="trumpet.html">
+			<button class="button">Trumpet</button>
+		</a>
+		<a href="bass.html">
+			<button class="button">Bass</button>
+		</a>
+		<a href="choir.html">
+			<button class="button">Choir</button>
+		</a>
+		</div>
+		
 	<div  id="maintext2">
 	
 	<p>
@@ -55,26 +69,10 @@
 	</div>
 	
 	
-	
-		<div id="navbar">
-		<a href="final.html">
-			<button type="button" class="btn btn-warning">Main</button>
-			</a>
-		<a href="trumpet.html">
-			<button type="button" class="btn btn-warning">Trumpet</button>
-		</a>
-		<a href="bass.html">
-			<button type="button" class="btn btn-warning">Bass</button>
-		</a>
-		<a href="choir.html">
-			<button type="button" class="btn btn-warning">Choir</button>
-		</a>
-		</div>
-	
 		
 		<div id="credits">
 		<p>A special thanks to <a id="wikipedia" href="https://www.wikipedia.org/">Wikipedia</a> for all of the inspiration.</p>
 		</div>
-		</div>
+
 </body>
 </html>
