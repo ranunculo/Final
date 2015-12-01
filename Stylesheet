@@ -8,20 +8,32 @@ position: fixed;
 top: 0px;
 left: 0px;
 right: 0px;
-z-index: 1;
 }
 
 .mainback {
-background-image: url("http://www.allaboutjazz.com/media/large/8/9/b/53d2cafa85f3b49ca84dbaa691538.jpg");
-background-position: center;
+background-image: url("louisbackground.png");
+background-repeat: no-repeat;
+background-position: top center;
+width: 100%;
 }
 
 #navbar {
-width: 480px;
-position: fixed;
-top: 7.5px;
-left: 7.5px;
+width: 400px;
 z-index: 1;
+margin-top: 10px;
+margin-left: 65px;
+}
+
+.button {
+	background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	opacity: .75;
+	border-radius: 10px;
 }
 
 h3 {
@@ -31,7 +43,7 @@ text-indent: 0px;
 #maintext1, #maintext2, #maintext3 {
 text-indent: 50px;
 background-color: black;
-opacity: 0.75;
+opacity: 0.65;
 color: white;
 padding: 15px;
 font-family: "Georgia", Georgia, serif;
@@ -40,17 +52,22 @@ font-family: 'Lato', sans-serif;
 margin: auto;
 margin-left: 250px;
 margin-right: 250px;
+border-radius: 5px;
 }
 
 #maintext1 {
-margin-top: 1000px;
+position: relative;
+right: 200px;
+width: 400px;
+margin-top: 50px;
 }
 
 #maintext2, #maintext3 {
-margin-top: 250px;
+margin-top: 450px;
 }
 
 #maintext3 {
+margin-top: 250px;
 margin-bottom: 25px;
 }
 
@@ -147,9 +164,25 @@ right: 7.5px;
 }
 
 #credits {
-position: absolute;
-bottom: 10px;
-margin-left: 75px;
 color: white;
 opacity: .75;
+margin-left: 800px;
+}
+
+#trumpetvideos {
+margin: auto;
+}
+
+#intro {
+text-indent: 50px;
+background-color: black;
+opacity: 0.75;
+color: white;
+padding: 15px;
+font-family: "Georgia", Georgia, serif;
+letter-spacing: 1.25px;
+font-family: 'Lato', sans-serif;
+width: 500px;
+margin-left: 50px;
+margin-top: 100px;
 }
