@@ -11,43 +11,37 @@
 	<body class="trumpetback">
 
 		
-		<div id="navbar" id="tnavbar">
+	<div id="navbar">
 		<a href="final.html">
-			<button type="button" class="btn btn-warning">Main</button>
+			<button class="button" >Main</button>
 			</a>
 		<a href="trumpet.html">
-			<button type="button" class="btn btn-warning">Trumpet</button>
+			<button class="button">Trumpet</button>
 		</a>
 		<a href="bass.html">
-			<button type="button" class="btn btn-warning">Bass</button>
+			<button class="button">Bass</button>
 		</a>
 		<a href="choir.html">
-			<button type="button" class="btn btn-warning">Choir</button>
+			<button class="button">Choir</button>
 		</a>
 		</div>
-	
-
-	
-		<div class="bodyp" id="trumpettext">
 		
+		<div id="trumpet1">
 			<h3>History</h3>
-				<img id="summitvalve" src="http://whyharrelson.weebly.com/uploads/3/9/5/5/3955654/7755412_orig.jpg">
 				<p>The earliest trumpets date back to 1500 BC and earlier. The bronze and silver trumpets from Tutankhamun's grave in Egypt, bronze lurs from Scandinavia, and metal trumpets from China date back to this period. Trumpets from the Oxus civilization (3rd millennium BC) of Central Asia have decorated swellings in the middle, yet are made out of one sheet of metal, which is considered a technical wonder.The Moche people of ancient Peru depicted trumpets in their art going back to 300 AD. The earliest trumpets were signaling instruments used for military or religious purposes, rather than music in the modern sense; and the modern bugle continues this signaling tradition.</p>
-		
+		</div>
+		<div id="trumpet2">
 			<h3>Varieties and Construction</h3>
 				<p>Improvements to instrument design and metal making in the late Middle Ages and Renaissance led to an increased usefulness of the trumpet as a musical instrument. The natural trumpets of this era consisted of a single coiled tube without valves and therefore could only produce the notes of a single overtone series. Changing keys required the player to change crooks of the instrument. The development of the upper, "clarino" register by specialist trumpeters—notably Cesare Bendinelli—would lend itself well to the Baroque era, also known as the "Golden Age of the natural trumpet." During this period, a vast body of music was written for virtuoso trumpeters. The art was revived in the mid-20th century and natural trumpet playing is again a thriving art around the world. Many modern players who perform Baroque music use a version of the natural trumpet dubbed the baroque trumpet, which is fitted with one or more vent holes to aid in correcting out-of-tune notes in the harmonic series. Most professional orchestra trumpeters use a valved trumpet.</p>		
 				<p>The trumpet is constructed of brass tubing bent twice into a rounded oblong shape. Players create sound by blowing air through closed lips, producing a "buzzing" sound into the mouthpiece, which causes vibration in the air column inside the trumpet. One can change the pitch by changing their embouchure.
-				
-				<div id="trumpetvideos">
-					<iframe src="https://www.youtube.com/embed/1jhysf5jbYk" frameborder="0" allowfullscreen></iframe>	
-					<iframe  src="https://www.youtube.com/embed/PoPL7BExSQU" frameborder="0" allowfullscreen></iframe>
-					<iframe src="https://www.youtube.com/embed/wFzxo-XI8As" frameborder="0" allowfullscreen></iframe>
-					<iframe src="https://www.youtube.com/embed/8NAaRQUTp9g" frameborder="0" allowfullscreen></iframe>
-				</div>
+		</div>		
+		<div id="trumpetvideos">
+			<iframe src="https://www.youtube.com/embed/1jhysf5jbYk" frameborder="0" allowfullscreen></iframe>	
+			<iframe  src="https://www.youtube.com/embed/PoPL7BExSQU" frameborder="0" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/wFzxo-XI8As" frameborder="0" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/8NAaRQUTp9g" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
-		
-
 		
 	</body>
 </html>
